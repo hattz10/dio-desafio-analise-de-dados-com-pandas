@@ -1,4 +1,4 @@
-# Curso_Python_Pandas_Digital_Innovation
+# Analise de dados com pandas - DIO
 
  Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
 
